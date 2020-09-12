@@ -1,0 +1,4 @@
+# Project exclude paths
+/activator/target/
+/out/
+/service/target/
